@@ -65,10 +65,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-hook-form/react-hook-form"
+    "url": "git+https://github.com/tchon/react-hook-formae.git"
   },
   "homepage": "https://www.react-hook-form.com",
-  "author": "<bluebill1049@hotmail.com>",
+  "author": " <bluebill1049@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.8",
@@ -144,5 +144,12 @@
     "*.{md,json,yml}": [
       "prettier --write"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/tchon/react-hook-formae/issues"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
   }
 }
